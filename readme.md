@@ -8,7 +8,7 @@
 
 **My Photo:**
 
-![Rolland Kiss](https://cdn.europosters.eu/image/1300/arnold-schwarzenegger-i116338.jpg)
+![Rolland Kiss](./media/me-porto-santo_2019.jpg)
 
 **My Skills:**
 
